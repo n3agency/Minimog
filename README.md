@@ -1,4 +1,4 @@
-# Minimog-
+# Minimog Wordpress Theme
 Minimog WP The High Converting eCommerce Theme
 
 
